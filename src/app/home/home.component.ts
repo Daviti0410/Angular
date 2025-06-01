@@ -8,7 +8,7 @@ import {NgForOf} from '@angular/common';
   standalone: true,
   imports: [
     HousingLocationComponent,
-    NgForOf
+    NgForOf,
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
